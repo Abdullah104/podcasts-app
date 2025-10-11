@@ -22,3 +22,17 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+  fonts:
+    - family: SFProText
+      fonts:
+        - asset: assets/fonts/sf_pro_text/SFProText-Light.ttf
+          weight: 100
+        - asset: assets/fonts/sf_pro_text/SFProText-Regular.ttf
+          weight: 200
+        - asset: assets/fonts/sf_pro_text/SFProText-Medium.ttf
+          weight: 300
+        - asset: assets/fonts/sf_pro_text/SFProText-Semibold.ttf
+          weight: 500
+        - asset: assets/fonts/sf_pro_text/SFProText-Bold.ttf
+          weight: 700
