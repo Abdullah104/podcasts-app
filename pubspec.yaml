@@ -40,3 +40,6 @@ flutter:
     - family: CustomIcons
       fonts:
         - asset: assets/fonts/CustomIcons.ttf
+
+  assets:
+    - assets/images/
